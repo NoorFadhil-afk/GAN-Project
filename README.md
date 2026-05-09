@@ -1,5 +1,12 @@
 Dhofar Flavor AI Chatbot 🍲🌴
+
+
+
+
 Overview
+
+
+
 Dhofar Flavor AI is a specialized Generative AI chatbot designed to preserve and share the rich culinary heritage of the Dhofar region in Oman. Unlike general-purpose AI, this bot is specifically optimized to understand local Dhofari ingredients, traditional cooking methods, and cultural context.
 
 Key Features
